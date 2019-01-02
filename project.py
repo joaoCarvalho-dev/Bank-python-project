@@ -1,7 +1,3 @@
-#SOFT6017 Project 2018
-#Author João Carvalho
-#Student number: R00158576
-
 #Import random module
 import random
 
